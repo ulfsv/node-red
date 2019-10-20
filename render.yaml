@@ -1,0 +1,6 @@
+services:
+# A Node-red Docker web service
+- type: web
+  name: Node-red
+  env: node
+ 
